@@ -1,0 +1,10 @@
+{
+  "name": "ReLoop AI",
+  "description": "Circular Economy Operating System transforming waste into valuable resources through AI analysis, smart marketplace exchange, and reverse logistics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
