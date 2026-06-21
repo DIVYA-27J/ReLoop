@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Turning Waste into Value Through a Circular Economy</strong>
 </p>
----
+
 
 ## 🚀 Project Status & Tech Stack
 
@@ -105,53 +105,45 @@ Gamified score encouraging sustainable behavior.
 ---
 
 ## 🧠 System Architecture
-┌──────────────┐
-│    Users     │
-│ (Web/Mobile) │
-└──────┬───────┘
-       │
-       ▼
-┌──────────────────────────┐
-│        Frontend          │
-│ Next.js • TypeScript    │
-│ Tailwind CSS            │
-│ Image Upload • UI       │
-└──────┬──────────────────┘
-       │
-       ▼
-┌──────────────────────────┐
-│     Backend API Layer    │
-│     FastAPI (Python)    │
-│ Business Logic • APIs   │
-└──────┬───────────┬──────┘
-       │           │
-       ▼           ▼
-┌────────────┐  ┌──────────────┐
-│ AI Engine  │  │   Database   │
-│ Gemini API │  │ PostgreSQL   │
-│ CV + LLMs  │  │ Users • Data │
-└──────┬─────┘  └──────────────┘
-       │
-       ▼
-┌──────────────────────────┐
-│ Digital Resource Passport│
-│ Value • CO₂ • Circularity│
-└──────┬──────────────────┘
-       │
-       ▼
-┌──────────────────────────┐
-│ Smart Matching Engine    │
-│ Recyclers • NGOs •       │
-│ Scrap Dealers • Industry │
-└──────┬──────────────────┘
-       │
-       ▼
-┌──────────────────────────┐
-│ Sustainability Dashboard │
-│ Impact • Revenue • Score │
-└──────────────────────────┘
 
----
+
+[ User / Community / Industry ]
+            |
+            v
+    ┌──────────────────────┐
+    │   Frontend (Web/App) │
+    │ React / Next.js      │
+    │ Camera + Forms       │
+    └──────────────────────┘
+            |
+            v
+    ┌──────────────────────┐
+    │   Backend API Layer  │
+    │ Node.js / FastAPI    │
+    │ Auth • APIs • Logic  │
+    └──────────────────────┘
+            |
+    ┌───────┼────────┬─────────────┐
+    v       v        v             v
+┌────────┐ ┌──────────────┐ ┌─────────────┐ ┌──────────────┐
+│ AI     │ │ Digital       │ │ Smart        │ │ Circular     │
+│ Waste  │ │ Resource      │ │ Matching     │ │ Marketplace  │
+│ ID     │ │ Passport      │ │ Engine       │ │ & Logistics  │
+└────────┘ └──────────────┘ └─────────────┘ └──────────────┘
+    |            |                |                 |
+    └────────────┴────────────────┴─────────────────┘
+                     |
+                     v
+            ┌───────────────────┐
+            │   Database Layer  │
+            │ PostgreSQL / NoSQL│
+            └───────────────────┘
+                     |
+                     v
+            ┌───────────────────┐
+            │  Analytics & ESG  │
+            │  Impact Dashboard │
+            └───────────────────┘
 
 
 ---
