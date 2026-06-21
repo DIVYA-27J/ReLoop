@@ -102,6 +102,7 @@ Matches users with recyclers, NGOs, scrap dealers, and industries based on:
 ### 🏆 Circularity Score
 Gamified score encouraging sustainable behavior.
 
+
 ---
 
 ## 🧠 System Architecture
