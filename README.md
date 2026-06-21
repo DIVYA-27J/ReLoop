@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/reloop.png.png" alt="ReLoop AI Logo" width="180"/>
+  <img src="reloop.png.png" alt="ReLoop AI Logo" width="180"/>
 </p>
 
 <h1 align="center">♻️ ReLoop AI</h1>
@@ -7,11 +7,6 @@
 <p align="center">
   <strong>Turning Waste into Value Through a Circular Economy</strong>
 </p>
-
-<p align="center">
-  🌍 AI-Powered Circular Economy Platform
-</p>
-
 ---
 
 ## 🚀 Project Status & Tech Stack
