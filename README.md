@@ -106,45 +106,11 @@ Gamified score encouraging sustainable behavior.
 
 ## 🧠 System Architecture
 
+## 🧠 System Architecture
 
-[ User / Community / Industry ]
-            |
-            v
-    ┌──────────────────────┐
-    │   Frontend (Web/App) │
-    │ React / Next.js      │
-    │ Camera + Forms       │
-    └──────────────────────┘
-            |
-            v
-    ┌──────────────────────┐
-    │   Backend API Layer  │
-    │ Node.js / FastAPI    │
-    │ Auth • APIs • Logic  │
-    └──────────────────────┘
-            |
-    ┌───────┼────────┬─────────────┐
-    v       v        v             v
-┌────────┐ ┌──────────────┐ ┌─────────────┐ ┌──────────────┐
-│ AI     │ │ Digital       │ │ Smart        │ │ Circular     │
-│ Waste  │ │ Resource      │ │ Matching     │ │ Marketplace  │
-│ ID     │ │ Passport      │ │ Engine       │ │ & Logistics  │
-└────────┘ └──────────────┘ └─────────────┘ └──────────────┘
-    |            |                |                 |
-    └────────────┴────────────────┴─────────────────┘
-                     |
-                     v
-            ┌───────────────────┐
-            │   Database Layer  │
-            │ PostgreSQL / NoSQL│
-            └───────────────────┘
-                     |
-                     v
-            ┌───────────────────┐
-            │  Analytics & ESG  │
-            │  Impact Dashboard │
-            └───────────────────┘
-
+<p align="center">
+  <img src="system-architecture.png" alt="ReLoop AI System Architecture" width="900"/>
+</p>
 
 ---
 
