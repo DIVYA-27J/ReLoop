@@ -106,10 +106,8 @@ Gamified score encouraging sustainable behavior.
 
 ## 🧠 System Architecture
 
-## 🧠 System Architecture
-
 <p align="center">
-  <img src="system-architecture.png" alt="ReLoop AI System Architecture" width="900"/>
+  <img src="system architecture.png" alt="System Architecture Diagram" width="900"/>
 </p>
 
 ---
