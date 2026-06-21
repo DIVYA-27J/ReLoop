@@ -12,19 +12,32 @@
 ## 🚀 Project Status & Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue"/>
-  <img src="https://img.shields.io/badge/AI-Powered-green"/>
-  <img src="https://img.shields.io/badge/Circular_Economy-Sustainability-brightgreen"/>
-</p>
+  <!-- Project Status -->
+  <img src="https://img.shields.io/badge/status-active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/hackathon-ready-blueviolet?style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwindcss" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python" />
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/Gemini_Vision_API-4285F4?style=for-the-badge&logo=google" />
+  <img src="https://img.shields.io/badge/AI--Powered-brightgreen?style=for-the-badge" />
+
+  <!-- Deployment -->
+  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker" />
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
 </p>
 
 ---
